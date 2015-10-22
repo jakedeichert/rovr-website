@@ -1,0 +1,121 @@
+/*
+orange: #fc6430
+
+*/
+
+* {
+	border: 0;
+	font-size: 100%;
+	font-weight: normal;
+	margin: 0;
+	padding: 0;
+	vertical-align: baseline;
+}
+
+
+html {
+	height: 100%;
+}
+
+body {
+	background: #fff;
+	color: rgb(90, 90, 90);
+	font-family: Arial, serif;
+	font-size: 20px;
+	height: 100%;
+	line-height: 1.5;
+}
+
+p {
+	margin: 0 0 30px;
+}
+
+strong, b {
+	font-weight: bold;
+}
+
+em, i {
+	font-style: italic;
+}
+
+img {
+	display: block;
+	width: 100%;
+}
+
+a {
+	color: #fc6430;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+
+
+ul, ol {
+	margin: 0 0 30px 50px;
+}
+
+ul ul, ul ol, ol ol, ol ul {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+li {
+	margin: 0 0 12px;
+}
+li:last-child {
+	margin: 0;
+}
+
+hr {
+    border-top: 1px solid rgba(0, 0, 0, 0.23);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.11);
+    display: block;
+    height: 0;
+    margin: 40px 0;
+}
+
+h1 {
+	color: rgb(40, 40, 40);
+	font-size: 40px;
+}
+
+h2 {
+	color: rgb(100, 100, 100);
+	font-weight: 300;
+	font-size: 28px;
+	line-height: 48px;
+	margin: 0 0 30px;
+}
+
+h3 {
+	color: rgb(50, 50, 50);
+	font-weight: 300;
+	font-size: 28px;
+	margin: 0 0 10px;
+}
+
+h4 {
+	font-size: 23px;
+	margin: 0 0 5px;
+}
+
+h5 {
+	font-size: 21px;
+	margin: 0 0 5px;
+}
+/*
+footer {
+	background: #202020;
+}
+footer div {
+	background: $logo-orange;
+}
+footer p {
+	color: #606060;
+	font-size: 12px;
+	margin: 0;
+	padding: 10px 10%;
+	text-align: center;
+}*/

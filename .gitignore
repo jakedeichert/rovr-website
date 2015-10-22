@@ -1,0 +1,19 @@
+#########################
+# windows and mac stuff #
+#########################
+*.DS_Store
+*.DS_Store?
+*._*
+*.Spotlight-V100
+*.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+
+###############
+# other stuff #
+###############
+_BUILD/
