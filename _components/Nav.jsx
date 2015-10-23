@@ -3,11 +3,14 @@
  * @desc Renders the top navigation bar.
  */
 
-class Nav extends React.Component {
-    render() {
-        return <nav className="nav">
+let Nav = (props) => {
+    return <nav className="nav">
+        <div className="pages">
             <a href="/docs">Docs</a>
             <a href="/api">API</a>
-        </nav>;
-    }
-}
+        </div>
+        <div className="social">
+            <a href="https://github.com/rovrjs/rovr"><GitHubIcon width="25" height="25" color="#fff"/></a>
+        </div>
+    </nav>;
+};
