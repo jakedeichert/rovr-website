@@ -21,7 +21,7 @@ html {
 body {
 	background: #f4f4f4;
 	color: #252525;
-	font-family: Helvetica, Arial, sans-serif;
+	font-family: Open Sans, Helvetica, Arial, sans-serif;
 	font-size: 20px;
 	height: 100%;
 	line-height: 1.5;
@@ -172,19 +172,33 @@ footer p {
 * HeroHome.jsx
 ***************************************************/
 .home-hero {
-	height: 400px;
+	height: 360px;
 	text-align: center;
 }
 
 .home-hero img {
 	max-width: 350px;
-	padding: 134px 0 10px;
+	padding: 65px 0 10px;
 	margin: 0 auto;
 }
 
 .home-hero h1 {
 	font-family: Oswald, Helvetica, Arial, sans-serif;
-	height: 40px;
 	line-height: 40px;
 	font-size: 20px;
+}
+
+.home-hero .npm-example {
+	background: #252525;
+	display: inline-block;
+	color: #a9a9a9;
+	margin: 20px auto;
+	padding: 10px 15px;
+	font-size: 14px;
+	text-align: left;
+	font-family: Source Code Pro, Monaco, Menlo, Consolas, monospace;
+}
+
+.home-hero .npm-example span {
+	color: #8A7FDB;
 }
