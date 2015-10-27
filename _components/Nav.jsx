@@ -6,6 +6,7 @@
 let Nav = (props) => {
     return <nav className="nav">
         <div className="pages">
+            <a href="/">Home</a>
             <a href="/docs">Docs</a>
             <a href="/api">API</a>
         </div>
