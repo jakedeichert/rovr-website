@@ -119,6 +119,11 @@ footer p {
 	text-align: center;
 }*/
 
+.content {
+	margin: 0 auto;
+	max-width: 700px;
+	padding: 20px;
+}
 
 /***************************************************
 * Nav.jsx
@@ -169,7 +174,7 @@ footer p {
 	display: block;
 }
 /***************************************************
-* HeroHome.jsx
+* HomeHero.jsx
 ***************************************************/
 .home-hero {
 	text-align: center;
