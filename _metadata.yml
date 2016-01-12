@@ -1,11 +1,9 @@
 title: "rovr"
-
 ####################################################################
 # asset references
 ####################################################################
-css_dir: "/assets/styles"
-img_dir: "/assets/images"
-favicon: "/assets/images/logos/favicon.png"
-apple_touch_icon: "/assets/images/logos/apple-touch-icon.png"
+css_dir: "/rovr-website/assets/styles"
+img_dir: "/rovr-website/assets/images"
+favicon: "/rovr-website/assets/images/logos/favicon.png"
+apple_touch_icon: "/rovr-website/assets/images/logos/apple-touch-icon.png"
 google_fonts: "https://fonts.googleapis.com/css?family=Oswald|Source+Code+Pro|Open+Sans:400italic,700,300,400"
-rss: ""
