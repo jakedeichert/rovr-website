@@ -11,7 +11,7 @@ let Nav = (props) => {
             <a href="/api">API</a>
         </div>
         <div className="social">
-            <a href="https://github.com/rovrjs/rovr"><GitHubIcon width="25" height="25" color="#fff"/></a>
+            <a href="https://github.com/jakedeichert/rovr"><GitHubIcon width="25" height="25" color="#fff"/></a>
         </div>
     </nav>;
 };
